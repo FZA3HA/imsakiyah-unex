@@ -1,0 +1,4 @@
+* text=auto eol=lf
+assets/js/*.js linguist-detectable=true linguist-vendored=false linguist-generated=false linguist-language=JavaScript
+assets/css/*.css linguist-detectable=true linguist-vendored=false linguist-generated=false linguist-language=CSS
+config.js linguist-detectable=true linguist-vendored=false linguist-generated=false linguist-language=JavaScript
